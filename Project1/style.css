@@ -225,7 +225,7 @@ img{
 }
 p{
     text-align: center;
-    color: #000;
+    color: black;
     padding-top: 0 8px;
 }
 h6{
@@ -295,8 +295,12 @@ button{
     height: 600px;
     padding: 20px;
     margin-left: 70px;
+
     
 
+}
+.about-us p,.bar p, .comment p,.comment2 p{
+    color: white;
 }
 .about{
     width: 100%;
